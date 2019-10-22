@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<catalago>
+  <Ciudad id="1">
+    <Nombre>Neiva</Nombre>
+  </Ciudad>
+  <Ciudad id="2">
+    <Nombre>cali</Nombre>
+  </Ciudad>
+  <Ciudad id="3">
+    <Nombre>cali</Nombre>
+  </Ciudad>
+  <Ciudad id="4">
+    <Nombre>Medellin</Nombre>
+  </Ciudad>
+  <Ciudad id="5">
+    <Nombre>Bogota</Nombre>
+  </Ciudad>
+
+</catalago>
